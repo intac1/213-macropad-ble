@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "FUCKNIGGERS") (type "KiCad") (uri "${KIPRJMOD}/FUCKNIGGERS.pretty") (options "") (descr ""))
+)
